@@ -1,2 +1,2 @@
 # ComputerVision-stuff
-Here I upload anything I do while I tinker with OpenCV and deep learning.
+Here I upload anythingI do while tinkering with OpenCV and deep learning.
