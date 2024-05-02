@@ -39,7 +39,7 @@ addedEdges = cv.add(canny, dilated)
 # cv.imshow('Both tipes of edges', addedEdges) # Paint the two different edges on same image
 
 
-# # 7. Subtracting two images
+# 7. Subtracting two images
 subtractedEdges = cv.subtract(dilated, cannyBlur)
 # # cv.imshow('Subtracted', subtractedEdges)
 
